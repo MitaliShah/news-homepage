@@ -21,3 +21,7 @@
   #root, #__next {
     isolation: isolate;
   }
+
+body {
+  font-family: 'Inter', sans-serif;
+}
