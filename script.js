@@ -1,6 +1,6 @@
-const mobileMenuTrigger = document.querySelector(".header-nav-control");
-const mobileMenu = document.querySelector(".nav-links-container")
+// const mobileMenuTrigger = document.querySelector("#main-menu-toggle");
+// const mainMenu = document.querySelector("#main-menu")
 
-mobileMenuTrigger.addEventListener("click", () => { 
-    mobileMenu.classList.toggle('active');
-})
+// mobileMenuTrigger.addEventListener("click", () => { 
+//     mainMenu.classList.toggle('active');
+// })
